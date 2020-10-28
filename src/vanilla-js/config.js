@@ -4,9 +4,9 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     alignment: 'right',
-    title: 'From Vacant Lots to Permanently Affordable Housing',
-    subtitle: 'Leveraging vacant properties in Chicago for affordable housing',
-    byline: 'By Jennah Haque, Chenab Navalkha, and Asher Simon',
+    // title: 'From Vacant Lots to Permanently Affordable Housing',
+    // subtitle: 'Leveraging vacant properties in Chicago for affordable housing',
+    // byline: 'By Jennah Haque, Chenab Navalkha, and Asher Simon',
     footer: 'Source: City of Chicago Data Portal',
     chapters: [
       {
